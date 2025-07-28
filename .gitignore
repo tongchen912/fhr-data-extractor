@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+.venv/
+
+# Data files (DO NOT push raw FHR data to GitHub)
+*.zip
+*.csv
+*.xlsx
+data/
+FHR_signals/
+DB.zip
+Dictionary.xlsx
+
+# Jupyter notebooks
+.ipynb_checkpoints/
